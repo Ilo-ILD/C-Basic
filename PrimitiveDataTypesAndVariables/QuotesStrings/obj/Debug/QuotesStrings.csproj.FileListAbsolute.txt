@@ -1,0 +1,8 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\QuotesStrings\bin\Debug\QuotesStrings.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\QuotesStrings\bin\Debug\QuotesStrings.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\QuotesStrings\bin\Debug\QuotesStrings.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\QuotesStrings\obj\Debug\QuotesStrings.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\QuotesStrings\obj\Debug\QuotesStrings.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\bin\Debug\QuotesStrings.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\QuotesStrings.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\QuotesStrings\obj\Debug\QuotesStrings.pdb

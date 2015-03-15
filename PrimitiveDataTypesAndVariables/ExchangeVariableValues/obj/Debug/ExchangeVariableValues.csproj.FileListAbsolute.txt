@@ -1,0 +1,8 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

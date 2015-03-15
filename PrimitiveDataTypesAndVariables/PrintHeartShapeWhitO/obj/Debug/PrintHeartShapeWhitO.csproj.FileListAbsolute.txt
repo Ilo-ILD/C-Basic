@@ -1,0 +1,5 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintHeartShapeWhitO\bin\Debug\PrintHeartShapeWhitO.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintHeartShapeWhitO\bin\Debug\PrintHeartShapeWhitO.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintHeartShapeWhitO\bin\Debug\PrintHeartShapeWhitO.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintHeartShapeWhitO\obj\Debug\PrintHeartShapeWhitO.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintHeartShapeWhitO\obj\Debug\PrintHeartShapeWhitO.pdb

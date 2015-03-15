@@ -1,0 +1,12 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\HexaDecimal\bin\Debug\HexaDecimal.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\HexaDecimal\bin\Debug\HexaDecimal.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\HexaDecimal\bin\Debug\HexaDecimal.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\HexaDecimal\obj\Debug\HexaDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\HexaDecimal\obj\Debug\HexaDecimal.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\HexaDecimal\obj\Debug\HexaDecimal.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\HexaDecimal\bin\Debug\HexaDecimal.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\HexaDecimal\obj\Debug\HexaDecimal.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\HexaDecimal\obj\Debug\HexaDecimal.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\HexaDecimal\bin\Debug\HexaDecimal.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\HexaDecimal\bin\Debug\HexaDecimal.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\HexaDecimal\obj\Debug\HexaDecimal.csprojResolveAssemblyReference.cache

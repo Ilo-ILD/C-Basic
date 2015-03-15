@@ -1,0 +1,10 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BoolenVariable\bin\Debug\BoolenVariable.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BoolenVariable\bin\Debug\BoolenVariable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BoolenVariable\bin\Debug\BoolenVariable.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BoolenVariable\obj\Debug\BoolenVariable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BoolenVariable\obj\Debug\BoolenVariable.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BoolenVariable\bin\Debug\BoolenVariable.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BoolenVariable\obj\Debug\BoolenVariable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BoolenVariable\obj\Debug\BoolenVariable.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BoolenVariable\bin\Debug\BoolenVariable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BoolenVariable\bin\Debug\BoolenVariable.pdb

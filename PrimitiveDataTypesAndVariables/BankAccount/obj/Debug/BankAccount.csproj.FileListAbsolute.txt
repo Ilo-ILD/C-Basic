@@ -1,0 +1,10 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.pdb

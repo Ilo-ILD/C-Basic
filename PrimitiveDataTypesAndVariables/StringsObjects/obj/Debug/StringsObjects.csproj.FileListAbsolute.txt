@@ -1,0 +1,10 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\StringsObjects\bin\Debug\StringsObjects.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\StringsObjects\bin\Debug\StringsObjects.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\StringsObjects\bin\Debug\StringsObjects.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\StringsObjects\obj\Debug\StringsObjects.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\StringsObjects\obj\Debug\StringsObjects.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\StringsObjects\bin\Debug\StringsObjects.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\StringsObjects\obj\Debug\StringsObjects.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\StringsObjects\obj\Debug\StringsObjects.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\StringsObjects\bin\Debug\StringsObjects.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\StringsObjects\bin\Debug\StringsObjects.pdb

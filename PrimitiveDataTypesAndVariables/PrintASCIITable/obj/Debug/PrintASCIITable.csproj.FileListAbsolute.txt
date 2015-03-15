@@ -1,0 +1,10 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\PrintASCIITable\obj\Debug\PrintASCIITable.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintASCIITable\obj\Debug\PrintASCIITable.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\PrintASCIITable\bin\Debug\PrintASCIITable.pdb

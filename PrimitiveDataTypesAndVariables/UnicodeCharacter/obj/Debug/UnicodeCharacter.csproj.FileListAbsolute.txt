@@ -1,0 +1,10 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\Homework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
