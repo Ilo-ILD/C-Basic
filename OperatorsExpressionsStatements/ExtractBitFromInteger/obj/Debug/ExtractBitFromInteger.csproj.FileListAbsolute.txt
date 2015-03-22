@@ -1,0 +1,1 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config

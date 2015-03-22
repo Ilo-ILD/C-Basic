@@ -1,0 +1,5 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\CheckBitAtPosition\bin\Debug\CheckBitAtPosition.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\CheckBitAtPosition\obj\Debug\CheckBitAtPosition.pdb

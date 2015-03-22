@@ -1,0 +1,5 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Divideby7and5\bin\Debug\Divideby7and5.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Divideby7and5\bin\Debug\Divideby7and5.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Divideby7and5\bin\Debug\Divideby7and5.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Divideby7and5\obj\Debug\Divideby7and5.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\Divideby7and5\obj\Debug\Divideby7and5.pdb

@@ -1,0 +1,5 @@
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ModifyBit\bin\Debug\ModifyBit.exe.config
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ModifyBit\bin\Debug\ModifyBit.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ModifyBit\bin\Debug\ModifyBit.pdb
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ModifyBit\obj\Debug\ModifyBit.exe
+C:\Users\Iliqn\Documents\Visual Studio 2013\Projects\OperatorsExpressionsStatements\ModifyBit\obj\Debug\ModifyBit.pdb

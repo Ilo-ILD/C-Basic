@@ -1,0 +1,5 @@
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdtDigitIs7\bin\Debug\ThirdtDigitIs7.exe.config
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdtDigitIs7\bin\Debug\ThirdtDigitIs7.exe
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdtDigitIs7\bin\Debug\ThirdtDigitIs7.pdb
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdtDigitIs7\obj\Debug\ThirdtDigitIs7.exe
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\ThirdtDigitIs7\obj\Debug\ThirdtDigitIs7.pdb

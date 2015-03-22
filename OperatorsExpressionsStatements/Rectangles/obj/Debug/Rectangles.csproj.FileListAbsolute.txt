@@ -1,0 +1,5 @@
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\bin\Debug\Rectangles.exe.config
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\bin\Debug\Rectangles.exe
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\obj\Debug\Rectangles.exe
+c:\users\iliqn\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\Rectangles\obj\Debug\Rectangles.pdb
